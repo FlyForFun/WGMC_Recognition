@@ -1,3 +1,2 @@
-model_checkpoint_path: "model_2"
-all_model_checkpoint_paths: "model_min_tc_2"
-all_model_checkpoint_paths: "model_2"
+model_checkpoint_path: "model_min_tc_3"
+all_model_checkpoint_paths: "model_min_tc_3"
