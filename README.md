@@ -1,5 +1,5 @@
 # WGMC_Recognition
-Optical waveguide mode composition recognition
+Optical waveguide mode composition recognition (optical AI)
 
 In this repos:
   1. Optical waveguide mode composition recognition with CNN in ./my_project;
